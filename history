@@ -1,0 +1,72 @@
+$ history
+    1  node -v
+    2  mkdir hello-world
+    3  cd hello-world
+    4  touch index.js
+    5  encho 'console.log("hello world");'> index.js
+    6  echo 'console.log("Hello world");' >index.js
+    7  git init
+    8  git add
+    9  git add .
+   10  git commit -m "Add Hello.js with Hello World"
+   11  git remote add origin https://github.com/Kgomotso97/Hello-World.git
+   12  git push origin master
+   13  git push origin main
+   14  mkdir hello-world
+   15  cd hello-world
+   16  touch index.js
+   17  echo 'console.log("hello world, my name is kgomotso");'>index.js
+   18  mkdir Tpc_community
+   19  cd Tpc_community
+   20  mkdir automation_scripts
+   21  mkdir documentation
+   22  nano deploy.sh
+   23  mkdir Tpc_Community
+   24  cd Tpc_Community
+   25  mkdir automation_scripts
+   26  cd automation_scripts
+   27  touch deploy.sh
+   28  git init
+   29  git add
+   30  git add .
+   31  git remote add origin https://github.com/Kgomotso97/Tpc_community.git
+   32  git init
+   33  git add .
+   34  git commit -m "Automation scripts"
+   35  cd ..
+   36  ls
+   37  cd automation_scripts
+   38  nano deploy.sh
+   39  ls
+   40  touch deploy.sh
+   41  ls
+   42  nano deploy.sh
+   43  mkdir documentation
+   44  cd documentation
+   45  touch style.txt
+   46  git init
+   47  git add .
+   48  git commit -m "documentation"
+   49  git clone https://github.com/Kgomotso97/tpc-community.git
+   50  cd ..
+   51  ls
+   52  cd
+   53  cd Tpc_Community/
+   54  ls
+   55  mkdir documentation
+   56  cd documentation
+   57  touch style_guide.txt
+   58  nano style_guide.txt
+   59  ls
+   60  cd ..
+   61  ls
+   62  git remote add origin https://github.com/Kgomotso97/tpc-community.git
+   63   git clone https://github.com/Kgomotso97/tpc-community.git
+   64  git remote add https://github.com/Kgomotso97/tpc-community.git
+   65  cd ..
+   66  ls
+   67  cd Tpc_community
+   68  ls
+   69  cd automation_scripts
+   70  nano deploy.sh
+   71  history
